@@ -1,0 +1,9 @@
+---
+title: "Contact Info"
+output: html_document
+---
+
+Phone: (616)-419-9291
+
+Email: <a href = "mailto:gabrielle.dykhouse@gmail.com"> gabrielle.dykhouse@gmail.com </a> <br>
+School: <a hfref = "mailto:gdhouse@umich.edu"> gdhouse@umich.edu </a> <br>

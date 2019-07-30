@@ -1,0 +1,22 @@
+name: "Gabrielle Dykhouse"
+output_dir: "."
+navbar:
+  title: "Gabrielle Dykhouse"
+  left:
+    - text: "Education"
+      href: education.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Extracurriculars"
+      href: extracurriculars.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/gdhouse
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/gabrielledykhouse/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

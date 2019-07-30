@@ -1,0 +1,33 @@
+---
+title: "Experience"
+output: html_document
+---
+
+#### Research and Work
+> **Research Assistant, Proteomics of Atrial Fibrillation Gene Expression, Michigan Medicine (2018-Present)**
+
+* Works with cardiac electrophysiologist to compare sheep and human heart tissues with varying stages of atrial fibrillation
+* Utilizes technological software to compute statistical probabilities of protein pathway regulation changes
+* Observes cardiac ablation and implant device upgrade procedures in the UM Frankel Cardiovascular Center under [Mohammed Saeed, MD, PhD](https://mcircc.umich.edu/mohammed-saeed-md-phd-1)
+    
+> **Clinical Research Intern, Spectrum Health Office of Research (Summer 2019)**
+
+* Assisted [Dr. Maximiliano Tamae Kakazu](https://findadoctor.spectrumhealth.org/physician/profile/2899), pulmonologist and Michigan State University College of Human Medicine assistant professor, in preparing research protocol and data sheets for clinical trials
+* Reviewed patient charts to pull medical data with the scientific support team in the Office of Research at the MSU Secchia Center
+* Projects
+    + Prediction of Cystic Fibrosis Exacerbation by Nutritional Status Parameters
+    + Impact of Obstructive Sleep Apnea in Patients with Acute Respiratory Failure after Extubation
+    
+> **CRISPR-Cas9 Genetic Research, East Kentwood High School (2018)**
+
+* Introduced alternative protein DNA into bacteria to alter growth patterns
+* Delivered heat/cold shocks to healthy cells to make DNA vulnerable to accepting foreign nucleic acids
+     
+> **Nanny (Summer 2018)**
+
+* Supervised three children and maintained their basic care while developing trusting connections
+     
+> **Water Filtration Research, East Kentwood High School (2017)**
+
+* Cultivated wet-lab skills through learning measuring techniques for pH equipment and filtration tools
+* Analyzed equipment output to determine the most effective method of water filtration

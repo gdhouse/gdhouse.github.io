@@ -1,0 +1,19 @@
+---
+title: "Education"
+output: html_document
+---
+
+#### College
+> **University of Michigan - Ann Arbor (September 2018-December 2021)** 
+
+* B.S. Neuroscience, Program in Biology
+* Minor in Spanish Language, Literature, and Culture
+* Proficiency in Spanish
+    + College of Literature, Science, and the Arts Residential College intensive langauage program
+
+#### High School
+> **East Kentwood High School - Kentwood, MI (September 2014-May 2018)**
+
+* GPA: 4.33 Weighted/4.0 Unweighted
+* Top 10 Graduate (Class of 559)
+* 10 AP classes: Biology, Calculus BC, Chemistry, English Language, English Literature, Macroeconomics, Psychology, Spanish Language, Statistics, World History

@@ -1,0 +1,30 @@
+---
+title: "Extracurriculars"
+output: html_document
+---
+
+#### Leadership, Service, and Organizations
+> **Hospital Volunteer (2019-Present)**
+
+* Volunteers weekly at the University of Michigan Hospital general surgery unit
+* Assists nurses in preparing unit and interacts with patients and their families during their stay
+     
+> **Physician Shadowing Co-Chair, Pre-Medical Club (2018-Present)**
+
+* Pairs students with local doctors as selected Physician Shadowing Co-Chair of the Executive Board
+* Volunteers in local community organizations such as the Ronald McDonald House of Ann Arbor
+* Traveled to the Dominican Republic and utilized Spanish skills while working with health professionals to improve water quality
+
+> **Changing Health, Attitude, and Actions to Recreate Girls (CHAARG) (2018-Present)**
+
+* Engages in weekly community fitness programs to build healthy relationships between young women
+
+> **Undergraduate Research Opportunity Program (UROP) (2018-2019)**
+
+* Attended seminars detailing research processes and ethics
+* Practiced presenting research and data analytics to targeted audiences at symposiums and meetings
+
+> **Communications Chair, East Quad Hall Council (2018-2019)**
+
+* Elected as Communications Chair to residence hall student government Executive Board 
+* Organized community events and facilitated communication between board and dorm residents

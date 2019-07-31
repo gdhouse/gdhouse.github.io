@@ -18,6 +18,10 @@ output: html_document
     + Prediction of Cystic Fibrosis Exacerbation by Nutritional Status Parameters
     + Impact of Obstructive Sleep Apnea in Patients with Acute Respiratory Failure after Extubation
     
+> **Spanish Tutor, Forest Hills Public Schools, Self-Employed (Spring 2019)**
+
+* Aided local high school students with learning difficulties in preparing for Spanish exams and quizzes
+    
 > **CRISPR-Cas9 Genetic Research, East Kentwood High School (2018)**
 
 * Introduced alternative protein DNA into bacteria to alter growth patterns

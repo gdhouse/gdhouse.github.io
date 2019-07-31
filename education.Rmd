@@ -3,7 +3,7 @@ title: "Education"
 output: html_document
 ---
 
-#### College
+#### Undergraduate Degree
 > **University of Michigan - Ann Arbor (September 2018-December 2021)** 
 
 * B.S. Neuroscience, Program in Biology
@@ -11,7 +11,7 @@ output: html_document
 * Proficiency in Spanish
     + College of Literature, Science, and the Arts Residential College intensive langauage program
 
-#### High School
+#### High School Diploma
 > **East Kentwood High School - Kentwood, MI (September 2014-May 2018)**
 
 * GPA: 4.33 Weighted/4.0 Unweighted
